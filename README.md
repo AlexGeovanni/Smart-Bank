@@ -1,6 +1,6 @@
 # Smart Bank
 
-### [Ver página] (https://smart-bank-dusky.vercel.app/)
+### [Ver página](https://smart-bank-dusky.vercel.app/)
 Es una practica del curso de react en Alura
 
 ### realizado con react
